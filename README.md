@@ -8,7 +8,7 @@
 
 
 - 💬 People you can contact with: 
-                       -<i class="fa-brands fa-telegram"></i>
+<i class="fa-brands fa-telegram"></i> - CEO
 - ⚡ Our site: https://rosnodemonitorring.online/
 
 <img src="https://i.ibb.co/kJn1vPp/111.jpg" />
