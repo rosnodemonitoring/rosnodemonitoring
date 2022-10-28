@@ -6,10 +6,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">We are a constantly growing team of like-minded people who help our community to know the world of nodes</h3>
 
-- 💬 People you can contact with: 
-😎 CEO: https://t.me/btclovespb
-🧐 CTO: https://t.me/DK_SaintP
-👷 Support: https://t.me/rosnodsupport
+- 💬 People you can contact with: <br>😎 CEO: https://t.me/btclovespb<br>🧐 CTO: https://t.me/DK_SaintP<br>👷 Support: https://t.me/rosnodsupport
 
 - 🌏 Our site: https://rosnodemonitorring.online/
 - ✍ TG News Group:https://t.me/rosnodmonitoringnews
