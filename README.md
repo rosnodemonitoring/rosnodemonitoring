@@ -8,8 +8,12 @@
 
 
 - 💬 People you can contact with: 
-<i class="fa-brands fa-telegram"></i> - CEO
-- ⚡ Our site: https://rosnodemonitorring.online/
+😎 CEO: https://t.me/btclovespb
+🧐 CTO: https://t.me/DK_SaintP
+👷 Support: https://t.me/rosnodsupport
+
+- 🌏 Our site: https://rosnodemonitorring.online/
+- ▷ TG News Group:https://t.me/rosnodmonitoringnews
 
 <img src="https://i.ibb.co/kJn1vPp/111.jpg" />
 <img src="https://i.ibb.co/tCMpFBJ/222.jpg" />
