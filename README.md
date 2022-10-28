@@ -6,14 +6,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">We are a constantly growing team of like-minded people who help our community to know the world of nodes</h3>
 
-
 - 💬 People you can contact with: 
--😎 CEO: https://t.me/btclovespb
--🧐 CTO: https://t.me/DK_SaintP
--👷 Support: https://t.me/rosnodsupport
+😎 CEO: https://t.me/btclovespb
+🧐 CTO: https://t.me/DK_SaintP
+👷 Support: https://t.me/rosnodsupport
 
 - 🌏 Our site: https://rosnodemonitorring.online/
-- ▷ TG News Group:https://t.me/rosnodmonitoringnews
+- ✍ TG News Group:https://t.me/rosnodmonitoringnews
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ROSNODEMONITORING&theme=blueberry_duo)](https://git.io/streak-stats)
 
 <img src="https://i.ibb.co/kJn1vPp/111.jpg" />
-<img src="https://i.ibb.co/djyy72D/222.jpg" />
+<img src="https://i.ibb.co/5c9hRjg/222.jpg" />
