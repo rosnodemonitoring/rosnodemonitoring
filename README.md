@@ -8,7 +8,7 @@
 
 - 💬 People you can contact with: <br>😎 CEO: https://t.me/btclovespb<br>🧐 CTO: https://t.me/DK_SaintP<br>👷 Support: https://t.me/rosnodsupport
 
-- 🌏 Our site: https://rosnodemonitorring.online/
+- 🌏 Our site: https://rosnodemonitoring.online/
 - ✍ TG News Group:https://t.me/rosnodmonitoringnews
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ROSNODEMONITORING&theme=blueberry_duo)](https://git.io/streak-stats)
